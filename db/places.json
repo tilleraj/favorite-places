@@ -1,0 +1,67 @@
+{
+    "cities": [
+        {
+            "cityName": "Nashville",
+            "cityState": "Tennessee",
+            "cityImage": "...",
+            "favoriteRestaurant": "Stoney River",
+            "favoriteBar": "Black Rabbit",
+            "favoriteHotel": "The Hermitage Hotel",
+            "favoriteTouristAttraction": "Bicentennial Mall"
+        },
+        {
+            "cityName": "Toronto",
+            "cityState": "Ontario",
+            "cityImage": "...",
+            "favoriteRestaurant": "House on Parliament",
+            "favoriteBar": "Cold Tea",
+            "favoriteHotel": "Drake Hotel",
+            "favoriteTouristAttraction": "Distillery District"
+        },
+        {
+            "cityName": "Chicago",
+            "cityState": "Illinois",
+            "cityImage": "...",
+            "favoriteRestaurant": "Maple & Ash",
+            "favoriteBar": "Three Dots and a Dash",
+            "favoriteHotel": "Palmer House Hilton Chicago",
+            "favoriteTouristAttraction": "Navy Pier"
+        },
+        {
+            "cityName": "Los Angeles",
+            "cityState": "California",
+            "cityImage": "...",
+            "favoriteRestaurant": "Magic Castle",
+            "favoriteBar": "Bibo Ergo Sum",
+            "favoriteHotel": "Hotel Figueroa",
+            "favoriteTouristAttraction": "Amoeba Records Hollywood"
+        },
+        {
+            "cityName": "New York",
+            "cityState": "New York",
+            "cityImage": "...",
+            "favoriteRestaurant": "B Side Pizza",
+            "favoriteBar": "Valhalla",
+            "favoriteHotel": "The Algonquin",
+            "favoriteTouristAttraction": "Sear's Tower"
+        },
+        {
+            "cityName": "Atlanta",
+            "cityState": "Georgia",
+            "cityImage": "...",
+            "favoriteRestaurant": "The Silver Skillet",
+            "favoriteBar": "Ticonderoga Club",
+            "favoriteHotel": "The Artmore Hotel",
+            "favoriteTouristAttraction": "World of Coke"
+        },
+        {
+            "cityName": "Boston",
+            "cityState": "Massachusetts",
+            "cityImage": "...",
+            "favoriteRestaurant": "Bostonia Public House",
+            "favoriteBar": "Harpoon Brewery",
+            "favoriteHotel": "The Boxer Boston",
+            "favoriteTouristAttraction": "Boston Cannons Lacrosse"
+        }
+    ]
+}

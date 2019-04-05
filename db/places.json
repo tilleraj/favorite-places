@@ -1,9 +1,9 @@
 {
-    "cities": [
+    "places": [
         {
             "cityName": "Nashville",
             "cityState": "Tennessee",
-            "cityImage": "...",
+            "cityImage": "https://render.fineartamerica.com/images/rendered/default/print/16.000/10.625/break/images-medium-5/nashville-skyline-dan-holland.jpg",
             "favoriteRestaurant": "Stoney River",
             "favoriteBar": "Black Rabbit",
             "favoriteHotel": "The Hermitage Hotel",
@@ -12,7 +12,7 @@
         {
             "cityName": "Toronto",
             "cityState": "Ontario",
-            "cityImage": "...",
+            "cityImage": "https://imgc.artprintimages.com/img/print/view-of-toronto-skyline-at-night-from-the-docks-toronto-ontario-canada_u-l-pzlece0.jpg?h=550&w=550",
             "favoriteRestaurant": "House on Parliament",
             "favoriteBar": "Cold Tea",
             "favoriteHotel": "Drake Hotel",
@@ -21,7 +21,7 @@
         {
             "cityName": "Chicago",
             "cityState": "Illinois",
-            "cityImage": "...",
+            "cityImage": "https://ih0.redbubble.net/image.9011339.6129/flat,550x550,075,f.jpg",
             "favoriteRestaurant": "Maple & Ash",
             "favoriteBar": "Three Dots and a Dash",
             "favoriteHotel": "Palmer House Hilton Chicago",
@@ -30,7 +30,7 @@
         {
             "cityName": "Los Angeles",
             "cityState": "California",
-            "cityImage": "...",
+            "cityImage": "https://cdn.vox-cdn.com/thumbor/BE6Cc_tqJ3LD2UEQBaSCGGD8EYA=/0x0:3482x1296/1200x900/filters:focal(540x0:1096x556)/cdn.vox-cdn.com/uploads/chorus_image/image/60720767/shutterstock_26013274.0.jpg",
             "favoriteRestaurant": "Magic Castle",
             "favoriteBar": "Bibo Ergo Sum",
             "favoriteHotel": "Hotel Figueroa",
@@ -39,7 +39,7 @@
         {
             "cityName": "New York",
             "cityState": "New York",
-            "cityImage": "...",
+            "cityImage": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX11028748.jpg",
             "favoriteRestaurant": "B Side Pizza",
             "favoriteBar": "Valhalla",
             "favoriteHotel": "The Algonquin",
@@ -48,7 +48,7 @@
         {
             "cityName": "Atlanta",
             "cityState": "Georgia",
-            "cityImage": "...",
+            "cityImage": "https://farm9.staticflickr.com/8149/29698308981_0d6196a726_b.jpg",
             "favoriteRestaurant": "The Silver Skillet",
             "favoriteBar": "Ticonderoga Club",
             "favoriteHotel": "The Artmore Hotel",
@@ -57,7 +57,7 @@
         {
             "cityName": "Boston",
             "cityState": "Massachusetts",
-            "cityImage": "...",
+            "cityImage": "https://previews.123rf.com/images/rabbit75123/rabbit751231110/rabbit75123111000129/11006907-boston-downtown-skyline-panorama-with-skyscrapers-over-water-with-reflections-at-dusk-illuminated-wi.jpg",
             "favoriteRestaurant": "Bostonia Public House",
             "favoriteBar": "Harpoon Brewery",
             "favoriteHotel": "The Boxer Boston",

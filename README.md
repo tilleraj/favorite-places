@@ -2,9 +2,9 @@
 This is a project uses an XHR request to pull data from a json file. The data is then displayed as Bootstrap cards in a responsive layout.  
 
 ## Screenshots
-![A picture of the page on mobile](https://raw.githubusercontent.com/tilleraj/favorite-places/master/screenshots/screenshot0.PNG)
-![A picture of the page on tablet](https://raw.githubusercontent.com/tilleraj/favorite-places/master/screenshots/screenshot1.PNG)
-![A picture of the page on desktop](https://raw.githubusercontent.com/tilleraj/favorite-places/master/screenshots/screenshot2.PNG)
+![A picture of the page on mobile](https://raw.githubusercontent.com/tilleraj/favorite-places/master/screenshots/screenshot01.PNG)
+![A picture of the page on tablet](https://raw.githubusercontent.com/tilleraj/favorite-places/master/screenshots/screenshot02.PNG)
+![A picture of the page on desktop](https://raw.githubusercontent.com/tilleraj/favorite-places/master/screenshots/screenshot03.PNG)
 
 ## Getting Started
 ```

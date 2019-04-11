@@ -10,7 +10,7 @@ const domStringBuilder = (arrayOfElements) => {
     console.log(arrayOfElements);
     domString += `<div class="row">`;
     arrayOfElements.forEach((place) => {
-        domString += `<div class="col-12 col-md-6 col-lg-4">`;
+        domString += `<div class="col-12 col-md-6 col-lg-4 d-flex">`;
         domString += `  <div class="card">`;
         domString += `    <div class="card-header">${place.cityName}`;
         domString += `    </div>`;
